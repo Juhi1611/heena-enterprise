@@ -1,0 +1,195 @@
+                <!-- Product Card 1 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Angostura Aromatic Bitters" loading="lazy">
+                    <div class="card-content">
+                        <h3>Angostura Aromatic Bitters, 200ml</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 2,898.00</p>
+                        <p>Perfect for Cocktails and Culinary Creations.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 2 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Evian Water Bottle" loading="lazy">
+                    <div class="card-content">
+                        <h3>Evian Water Bottle 1L (Pack of 12)</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 2,598.00</p>
+                        <p>Imported Natural Spring Water.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 3 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Perrier Lime Sparkling Water" loading="lazy">
+                    <div class="card-content">
+                        <h3>Perrier Lime Sparkling Water Cans 330ml (Pack of 24)</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 4,955.00</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 4 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Himalayan Natural Mineral Water" loading="lazy">
+                    <div class="card-content">
+                        <h3>Himalayan Natural Mineral Water 500 ml</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 1,284.00</p>
+                        <p>Pack of 30 Bottles (Imported).</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 5 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Perrier Carbonated Water" loading="lazy">
+                    <div class="card-content">
+                        <h3>Perrier Carbonated Sparkling Mineral Water 330ml</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 4,498.00</p>
+                        <p>(Pack of 24).</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 6 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Himalayan Still Water" loading="lazy">
+                    <div class="card-content">
+                        <h3>Himalayan Still Water 750ml Glass Bottle</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 1,331.00</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 7 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="San Pellegrino Water" loading="lazy">
+                    <div class="card-content">
+                        <h3>San Pellegrino Carbonated Natural Mineral Water</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 4,399.00</p>
+                        <p>24 x 250 ml – Premium Sparkling Water.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 8 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Evocus Black Alkaline Drink" loading="lazy">
+                    <div class="card-content">
+                        <h3>Evocus Black Alkaline Drink 500ml</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 595.00</p>
+                        <p>(Pack of 6) - alkaline water online.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 9 -->
+                <div class="card">
+                    <img src="images/snacks.png" alt="Shimaya Dashi No Moto" loading="lazy">
+                    <div class="card-content">
+                        <h3>Shimaya Dashi No Moto Katsuo 1 Kg</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 1,350.00</p>
+                        <p>(Product of Japan) Bonito Flavoured Seasoning.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 10 -->
+                <div class="card">
+                    <img src="images/snacks.png" alt="BRUT Deodorant" loading="lazy">
+                    <div class="card-content">
+                        <h3>BRUT Men Attraction Deodorant 200ml</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 397.00</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 11 -->
+                <div class="card">
+                    <img src="images/snacks.png" alt="Boursin Cheese Spread" loading="lazy">
+                    <div class="card-content">
+                        <h3>Boursin Garlic and Herbs Cheese Spread (80g)</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 748.00</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 12 -->
+                <div class="card">
+                    <img src="images/snacks.png" alt="Pistachio Spread" loading="lazy">
+                    <div class="card-content">
+                        <h3>Moments Creamy Pistachio Spread 200g</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 889.00</p>
+                        <p>Rich & Smooth Nut Spread.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 13 -->
+                <div class="card">
+                    <img src="images/snacks.png" alt="Paseo Kitchen Towel" loading="lazy">
+                    <div class="card-content">
+                        <h3>Paseo Kitchen Towel</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 449.00</p>
+                        <p>Ultra Strong & Absorbent Printed Paper Rolls (2 Ply, 2 Rolls).</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 14 -->
+                <div class="card">
+                    <img src="images/chocolates.png" alt="Betty Crocker Cake Mix" loading="lazy">
+                    <div class="card-content">
+                        <h3>Betty Crocker Chocolate Fudge Cake Mix</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 460.00</p>
+                        <p>Super Moist Cake Mix, 375 g.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 15 -->
+                <div class="card">
+                    <img src="images/snacks.png" alt="Tesco Parmigiano Reggiano" loading="lazy">
+                    <div class="card-content">
+                        <h3>Tesco Parmigiano Reggiano Cheese 200g</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 1,336.00</p>
+                        <p>Authentic Italian Aged Parmesan.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 16 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Lavazza Coffee" loading="lazy">
+                    <div class="card-content">
+                        <h3>Lavazza Perfetto Espresso Coffee Powder</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 1,399.00</p>
+                        <p>Barista Coffee Powder Bag, 250g.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 17 -->
+                <div class="card">
+                    <img src="images/chocolates.png" alt="Lady Fingers" loading="lazy">
+                    <div class="card-content">
+                        <h3>Matilde Vicenzi Vicenzovo Lady Fingers 400g</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 739.00</p>
+                        <p>Authentic Italian Biscuits for Tiramisu and Desserts.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 18 -->
+                <div class="card">
+                    <img src="images/beverages.png" alt="Sprite Zero" loading="lazy">
+                    <div class="card-content">
+                        <h3>Sprite Zero Sugar Lemon Lime (Imported)</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 199.00</p>
+                        <p>Soft Drink Can 330ml.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 19 -->
+                <div class="card">
+                    <img src="images/snacks.png" alt="Old El Paso Tortillas Gluten Free" loading="lazy">
+                    <div class="card-content">
+                        <h3>Old El Paso Gluten Free Original Tortillas</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 789.00</p>
+                        <p>Imported 335g – Perfect for Gluten-Free Meals.</p>
+                    </div>
+                </div>
+
+                <!-- Product Card 20 -->
+                <div class="card">
+                    <img src="images/snacks.png" alt="Old El Paso Tortillas" loading="lazy">
+                    <div class="card-content">
+                        <h3>Old El Paso 8 Regular Super Soft Tortillas</h3>
+                        <p style="color: var(--primary-color); font-weight: bold; font-size: 1.2rem; margin-bottom: 0.5rem;">Rs. 542.00</p>
+                        <p>Corn and Wheat Tortillas 335g.</p>
+                    </div>
+                </div>
